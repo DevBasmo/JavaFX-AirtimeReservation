@@ -26,7 +26,7 @@ airline travel reservations with a clean professional UI.
 ## How to Run
 - Make sure you have Java JDK 8 or higher installed
 - Make sure JavaFX is configured in your IDE
-- Open the project in NetBeans
+- Open the project in any Java IDE (NetBeans, IntelliJ, Eclipse)
 - Run the AirtimeTravelReservation.java file
 
 Note: This project requires JavaFX libraries to be added 
